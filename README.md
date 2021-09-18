@@ -1,5 +1,5 @@
 # CSC8426: Emerging Technologies - Docker Platform
-This repository contains essential materials and references for the practicals of CSC8110 Cloud computing module. Please read https://docs.docker.com/engine/docker-overview/ before doing the exercises.
+This repository contains essential materials and references for the practicals of CSC8426 Emerging Technologies module. Please read https://docs.docker.com/engine/docker-overview/ before doing the exercises.
 ## Installation
 ### Virtual Machine with Docker Pre-Installed   (Recommended)
 Docker environment run seamlessly in Linux. It is recommended using the provided Virtual Machine Linux Image. Follow the below steps to setup a VM environment in your local machine.
