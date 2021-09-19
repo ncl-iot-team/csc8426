@@ -1,12 +1,15 @@
 # CSC8426: Emerging Technologies - Docker Platform
 This repository contains essential materials and references for the practicals of CSC8426 Emerging Technologies module. Please read https://docs.docker.com/engine/docker-overview/ before doing the exercises.
-## Installation
+## Tutorial Videos
+### 
+
+## Pre-Requsities Installation
 ### Virtual Machine with Docker Pre-Installed   (Recommended)
 Docker environment run seamlessly in Linux. It is recommended using the provided Virtual Machine Linux Image. Follow the below steps to setup a VM environment in your local machine.
 
 1. Download and install virtual box https://www.virtualbox.org/wiki/Downloads
 
-2. Download Virtual Machine Image (with Docker Pre-Installed): https://bit.ly/37laNgY
+2. Download Virtual Machine Image (with Docker Pre-Installed): https://bit.ly/3hML1rZ
 
 3. Import and run the ova file using VirtualBox. Username and password are cloud/cloud
 
@@ -16,15 +19,6 @@ If you have already installed Docker for Windows, existing installation and rela
 ![Disable HyperV Step 1](disableHyper-V-1.png?raw=true "Search for 'Turn Windows Features on or off'")
 ![Disable HyperV Step 2](disable-HyperV.png?raw=true "Disable Hyper-V")
 
-
-### Windows
-Please refer https://docs.docker.com/docker-for-windows/install/
-### Mac
-Please refer https://docs.docker.com/docker-for-mac/install/
-### Ubuntu
-Please refer https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
-
-Login Password: 'cloud'
 
 # Explanation Videos
 ## Container Introduction
