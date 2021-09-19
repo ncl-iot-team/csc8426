@@ -28,12 +28,8 @@ https://www.youtube.com/watch?v=EnJ7qX9fkcU
 
 ### 1. Tutorial Video
 Task1 Emerging Technologies Coursework https://bit.ly/3nR14sy
-### 2. Explanation References
-1. Docker Swarm Intro
-https://www.youtube.com/watch?v=Tm0Q5zr3FL4
-Refer https://docs.docker.com/engine/swarm/ for basic concepts
 
-### 3. Additional Hints
+### 2. Additional Hints
 It is a basic docker job which has to be performed using Command line (Refer https://docs.docker.com/get-started/part2/#run-the-app)
 
 ## Task 2: Deploy a complex web application stack in Docker Environment
@@ -42,26 +38,29 @@ It is a basic docker job which has to be performed using Command line (Refer htt
 
 Task2 Introduction to Docker Swarm https://bit.ly/3lBvuwh
 ### 2. Explanation References
-1. Docker Engine SDK and API
+1. Docker Swarm Intro
+https://www.youtube.com/watch?v=Tm0Q5zr3FL4
+Refer https://docs.docker.com/engine/swarm/ for basic concepts
+2. Docker Engine SDK and API
 Docker provides an API for interacting with the Docker daemon (called the Docker Engine API), as well as SDKs for Go and Python. There are unofficial libraries for other programming languages. If you choose to use Java as your programming language, you may use https://github.com/spotify/docker-client. Unofficial libraries don't come with all the features. Some provide control over basic docker engine features only.
 The SDKs allow you to build and scale Docker apps and solutions quickly and easily. If Go or Python won’t work for you, you can use the Docker Engine API directly or any other language third-party SDKs for 
 The Docker Engine API is a RESTful API accessed by an HTTP client such as wget or curl, or the HTTP library which is part of most modern programming languages.
 Refer https://docs.docker.com/develop/sdk/
 Python SDK Reference : https://docker-py.readthedocs.io/en/stable/
 
-2.  locustio/locust
+3.  locustio/locust
 	1. Basic features
 	https://github.com/locustio/locust
 	1. Running in Docker
 	https://docs.locust.io/en/stable/running-locust-docker.html
 	
-3.  Mongo Database
+4.  Mongo Database
 	1. Official Website
 	https://www.mongodb.com
 	1. Docker QuickStart
 	https://hub.docker.com/_/mongo
 
-4. Google cAdvisor Remote REST API Reference
+5. Google cAdvisor Remote REST API Reference
 	1. Pattern of API endpoint
 		```
 		http://<hostname>:<port>/api/<version>/<request>
@@ -90,7 +89,7 @@ Python SDK Reference : https://docker-py.readthedocs.io/en/stable/
 		
 	Refer https://github.com/google/cadvisor/blob/master/docs/api.md
 
-5. Docker Swarm Visualizer
+6. Docker Swarm Visualizer
 Refer: https://github.com/dockersamples/docker-swarm-visualizer
 
 ### 3. Additional Hints
