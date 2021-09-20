@@ -99,7 +99,7 @@ Refer the docker-compose.yml file in https://docs.docker.com/get-started/part5/#
 
 ### 1. Tutorial Video
 
-Task3 Docker Build Toturial https://bit.ly/3kiOSP7
+Task3 Docker Build Toturial https://bit.ly/3nWhsIx
 
 ### 2. Additional Hints
 You can download the source code of the provided Java program in this link https://github.com/ncl-iot-team/cadvisor-scraper
