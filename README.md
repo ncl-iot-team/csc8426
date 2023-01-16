@@ -3,22 +3,21 @@ This repository contains essential materials and references for the practicals o
 
 ## Pre-Requisites
 ### 1. Tutorial Video 
-Pre VirtualBox Tutorial https://bit.ly/2XH49Rp
+Pre VirtualBox Tutorial (VirtualBox only) https://bit.ly/2XH49Rp
 
 ### 2. Virtual Machine with Docker Pre-Installed   (Recommended)
+
+**Note to Mac users: You have to install Docker for Mac instead due to ARM incompatibilities**
+
 Docker environment run seamlessly in Linux. It is recommended using the provided Virtual Machine Linux Image. Follow the below steps to setup a VM environment in your local machine.
 
-1. Download and install virtual box https://www.virtualbox.org/wiki/Downloads
+1. Download and install VMWare player or VirtualBox (https://www.vmware.com/products/workstation-player.html / https://www.virtualbox.org/wiki/Downloads)
 
 2. Download Virtual Machine Image (with Docker Pre-Installed): https://bit.ly/3hML1rZ
 
-3. Import and run the ova file using VirtualBox. Username and password are cloud/cloud
+3. Import and run the ova file using VMWare/VirtualBox. Username and password are cloud/cloud
 
-If you have already installed Docker for Windows, existing installation and related feature (Hyper-V) may create conflicts while running a VM image. Please disable Hyper-V, Virtual Machine Platform, Windows Hypervisor Platform, Windows Sandbox, Windows Subsystem for Linux and restart windows before running VirtualBox
-
-
-![Disable HyperV Step 1](disableHyper-V-1.png?raw=true "Search for 'Turn Windows Features on or off'")
-![Disable HyperV Step 2](disable-HyperV.png?raw=true "Disable Hyper-V")
+If you have already installed Docker for Windows, please make sure your system is up to date. Otherwise, the VM may not launch correctly.
 
 ### 3. Explanation References
 1. Container Introduction
