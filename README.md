@@ -121,7 +121,7 @@ Before you push the new built docker image to the remote Docker Hub repository, 
 
 ### 1. Tutorial Video
 
-Task4 Introduction to cAdvisor https://bit.ly/3nNjcnd
+Task4 Introduction to cAdvisor https://bit.ly/3x47sR3
 
 ### 2. Additional Hints
 
