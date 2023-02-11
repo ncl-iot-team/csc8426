@@ -6,6 +6,7 @@ This repository contains essential materials and references for the practicals o
 ### For ARM Macs
 
 1. Install Docker for Apple Chip ( https://docker.com )
+2. Install Rosetta 2 ( `softwareupdate --install-rosetta` )
 
 ### For Windows or Intel Macs
 
