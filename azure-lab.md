@@ -12,8 +12,10 @@ Password: CSC8426!
 
 1. Open Hyper-V manager from the desktop
 2. Connect to the virtual machine named "Edge", ignore the "Cloud" virtual machine
-3. Press start to start the machine
-4. For the login screen, use the following credentials:
+3. Select settings
+4. On the processor tab, change the number of cores to 4. And apply the settings
+6. Press start to start the machine
+7. For the login screen, use the following credentials:
     * Username: student
     * Password: CSC8112!
     * We recommend you to change the password after the first login. You can do this by opening the terminal and running the command `passwd`
